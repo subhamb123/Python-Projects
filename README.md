@@ -1,6 +1,8 @@
 # Python Projects
 
-Here are the python projects I have worked on. The "Level 1" folder contains projects that are basic python skills practice.
+Here are the python projects I have worked on. A majority of them are personal projects while few are for school assignments.
+
+The "Level 1" folder contains projects that are basic python skills practice.
 
 Advanced algorithm practice can be found in the "Level 2" folder.  
 
