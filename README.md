@@ -1,4 +1,4 @@
-# Python Projects
+# Python Projects [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/subhamb123/Python-Projects/blob/master/LICENSE)
 
 Here are the python projects I have worked on. A majority of them are personal projects while few are for school assignments.
 
